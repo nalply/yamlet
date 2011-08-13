@@ -1,8 +1,9 @@
 {
     "name": "yamlet"
   , "description": "Simplified YAML but with include"
-  , "author": "Daniel Ly <daniel.ly@lively5.ch>"
+  , "author": "Daniel Ly <daniel.ly@lively5.ch> (http://lively5.ch)"
   , "version": "0.0.0"
   , "main": "yamlet.js"
+  , "repository": { "type": "git", "url": "git://github.com/nalply/yamlet.git"}
   , "dependencies": { }
 }
